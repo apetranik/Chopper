@@ -1,0 +1,7 @@
+name: Chopper
+author: Aliya
+main: com.javaminecraft.Chopper
+commands:
+    chop:
+        description: chops with 40 x 40 x 40 radius
+version: 1.0
